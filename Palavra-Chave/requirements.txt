@@ -1,5 +1,0 @@
-customtkinter
-pyinstaller
-tkinter
-string
-secrets
